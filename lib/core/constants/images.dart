@@ -33,7 +33,9 @@ class AppImages {
   static const String supplements1 = "assets/icons/general/supplements1.svg";
   static const String supplements2 = "assets/icons/general/supplements2.svg";
   static const String supplements4 = "assets/icons/general/supplements4.svg";
-
+  static const String market = "assets/icons/general/market.svg";
+  static const String coach1 = "assets/icons/general/coach1.svg";
+  static const String fields = "assets/icons/general/fields.svg";
 
 
   // Sport Icons
@@ -57,6 +59,10 @@ class AppImages {
 
   // Market Image
   static const String product_whey = "assets/images/banners/product_whey.png";
+  static const String ads1 = "assets/images/banners/ads1.png";
+  static const String ads2 = "assets/images/banners/ads2.jpg";
+  static const String ads3 = "assets/images/banners/ads3.jpg";
+  static const String nike = "assets/images/sports_store/nike.png";
 
 
 }

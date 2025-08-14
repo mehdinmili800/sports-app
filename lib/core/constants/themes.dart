@@ -11,6 +11,12 @@ class AppColors {
   static const Color error = Colors.redAccent;                 // لون الخطأ
   static const Color googleColor = Color(0xFFDB4437);          // لون زر Google
   static const Color appleColor = Color(0xFF000000);           // لون زر Apple
+  static const Color pill = Color(0xFF121212);
+  static const Color green  = Color(0xFF00FF84);
+  static const Color card   = Color(0xFF121619);
+  static const Color cardDark    = Color(0xFF121619);
+  static const Color blueCard    = Color(0xFF223044);
+  static const Color blueBorder  = Color(0xFF2A2F38);
 }
 
 final ThemeData lightTheme = ThemeData(
